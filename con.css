@@ -1,0 +1,27 @@
+body{
+	background-color:#71afeb;
+	font-family: sans-serif;
+}
+
+center h1{
+	background-color: cyan;
+    border-radius: 25px;
+	padding:10px;
+}
+center{
+	background-color:#eb9292;
+	border-radius: 30px;
+    font-size: 22px;
+}
+nav a{
+	text-decoration:none;
+	color:black;
+	font-size:18px;
+	background-color:white;
+	padding:15px;
+	border-radius:60px;
+}
+nav a:hover{
+	background-color:black;
+	color:white;
+}
